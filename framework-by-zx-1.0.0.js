@@ -7,5 +7,8 @@ let operators = {
 	},
 	multiplication: function(a, b){
 		return a * b;
+	},
+	residual: function(a, b){
+		return a / b;
 	}
 }
